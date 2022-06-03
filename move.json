@@ -1,0 +1,10 @@
+{
+     "Title" : " lap trinh demo json",
+     "description" : " khoa hoc gioi thieu ve lap trinh",
+     "movies":[
+
+        {"id":"1","title":"video 1","releaseYear":"2018"},
+        {"id":"2","title":"video 2","releaseYear":"2019"},
+        {"id":"3","title":"video 3","releaseYear":"2020"}
+     ]
+}
